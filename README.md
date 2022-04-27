@@ -31,8 +31,10 @@
 ![Vim](https://img.shields.io/badge/-Vim-black?style=flat-square&logo=vim&logoColor=019733)
 ![ApacheEcharts](https://img.shields.io/badge/-ApacheEcharts-black?style=flat-square&logo=ApacheEcharts&logoColor=AA344D)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ZombieBrand&count_private=true&show_icons=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieBrand&hide=TeX&layout=compact)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ZombieBrand&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ZombieBrand&theme=dark&hide_border=true" width = 400>
+</p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZombieBrand.ZombieBrand)
+
