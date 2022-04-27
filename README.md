@@ -1,7 +1,9 @@
 ## 欢迎来到这里！
 
 我是Zombie Brand，一名前端爱好者,了解更多关于我的信息，请随时在这里与我联系:
+
 [![Gmail Badge](https://img.shields.io/badge/-zombiebrandg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zombiebrandg@gmail.com)](mailto:zombiebrandg@gmail.com)
+![QQ Badge](https://img.shields.io/badge/-QQ-562168176-d50000)
 
 ## ⚡ Technologies
 
