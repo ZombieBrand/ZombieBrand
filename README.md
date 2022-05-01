@@ -11,6 +11,8 @@
 ![WebPack](https://img.shields.io/badge/-WebPack-black?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Nestjs](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=NestJS&logoColor=E0234E)
+![Prisma](https://img.shields.io/badge/-Prisma-f6f8fa?style=flat-square&logo=prisma&logoColor=2D3748)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![AntDesign](https://img.shields.io/badge/-AntDesign-black?style=flat-square&logo=AntDesign&logoColor=0170FE)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vuedotjs)
